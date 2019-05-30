@@ -7,4 +7,4 @@
 
 ## Screenshots 
 
-![image](https://github.com/ayushi1376/tinkter-calculator/blob/master/Untitled.png)
+![image](https://github.com/ayushi1376/tinkter-calculator/blob/master/cal.png)
