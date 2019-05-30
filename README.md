@@ -1,4 +1,4 @@
-# tinkter-calculator
+#tkinter-calculator
 
 ## Topics covered:
 1. Using Tkinter with Python.
